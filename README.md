@@ -1,4 +1,4 @@
-# Course_work_NN
+# Course_work_CNN
 The course work contains several variants of convolutional Neural Neural network to distinguish emotions on an image.
 
 main.ipynb  - initial
