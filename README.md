@@ -15,5 +15,3 @@ As an inference model was used the imagenet model, finetuned on our dataset.
 
 ![Снимок1](https://user-images.githubusercontent.com/65036612/228519545-62d14f19-fadd-4ebb-98ac-e8a50c948bfd.JPG)
 
-Uploading wednsday - Trim.mp4…
-
